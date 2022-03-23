@@ -6,7 +6,7 @@ orbs:
   # Declare a dependency on the welcome-orb
   # welcome: circleci/welcome-orb@0.4.1
   aws-cli: circleci/aws-cli@2.0.3
-# Orchestrate or schedule a set of jobs
+# Orchestrate or schedule a set of jobs 
 
 commands:
   # Exercise: Reusable Job Code
